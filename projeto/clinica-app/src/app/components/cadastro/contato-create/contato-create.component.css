@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 20px;
+    margin-right:15px;
+    color: white;
+    background-color: #0070AD;
+}
+
+.font {
+    font-weight: 100;
+    font-family: cursive;
+}
+
+input {
+    color: #0070AD;
+}
